@@ -1,0 +1,17 @@
+INSERT INTO categorias (descricao) VALUES
+('Alimentação'),
+('Assinaturas e Servições'),
+('Casa'),
+('Mercado'),
+('Cuidados Pessoais'),
+('Educação'),
+('Família'),
+('Lazer'),
+('Pets'),
+('Presentes'),
+('Roupas'),
+('Saúde'),
+('Transporte'),
+('Salário'),
+('Outras receitas'),
+('Outras despesas');
